@@ -1,0 +1,28 @@
+.category{
+border: 1px solid lightcoral;
+padding: .2em;
+margin: .2em;
+background-color: whitesmoke;
+font-size: 1.2em;
+}
+p{
+    padding: 2em;
+    font-size: 1.4em;
+    background-color: #c2d6dd;
+}
+.container{
+    background-color: lightblue;
+    padding: 3em;
+}
+img{
+    width: 35%;
+}
+a{
+    position: fixed;
+    top: 0;
+    right: 0;
+    font-size: 2em;
+    background: lightseagreen;
+    padding: 1em;
+    float: right;
+}

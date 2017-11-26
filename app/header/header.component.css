@@ -1,0 +1,15 @@
+.container{
+    width: 100%;
+    background-color: lightslategray;
+    height: 6em;
+    padding: .2em;
+}
+li{
+    float: left;
+    list-style: none;
+}
+li a{
+    font-size: 3em;
+    margin: .2em 1em .2em 1em;
+
+}
